@@ -1,7 +1,6 @@
 This is my first repository.
 <br>
-In these projects, I cleaned the raw data in MySQL. My first project was Global Layoffs project in which I Removed Duplicates, Standardized the Data, adjusted Null values or blank values and
-Removed any redundant column.
+In these projects, I analyzed the data of different projects on MySQL or Excel tool.
 <br>
 Author - Muneeb Shafique 
 <br>
